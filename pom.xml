@@ -5,7 +5,7 @@
   <parent>
     <artifactId>mcq-parent</artifactId>
     <groupId>pl.poznan.put</groupId>
-    <version>1.5-SNAPSHOT</version>
+    <version>1.6</version>
   </parent>
 
   <artifactId>mcq-core</artifactId>
@@ -14,11 +14,6 @@
     <dependency>
       <groupId>commons-io</groupId>
       <artifactId>commons-io</artifactId>
-    </dependency>
-
-    <dependency>
-      <groupId>java3d</groupId>
-      <artifactId>vecmath</artifactId>
     </dependency>
 
     <dependency>
